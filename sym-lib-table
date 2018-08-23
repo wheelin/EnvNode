@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name adp3333)(type Legacy)(uri ${KIPRJMOD}/lib/adp3333.lib)(options "")(descr ""))
+  (lib (name cy15b104q)(type Legacy)(uri ${KIPRJMOD}/lib/cy15b104q.lib)(options "")(descr ""))
+  (lib (name lmv341)(type Legacy)(uri ${KIPRJMOD}/lib/lmv341.lib)(options "")(descr ""))
+  (lib (name mcp73831)(type Legacy)(uri ${KIPRJMOD}/lib/mcp73831.lib)(options "")(descr ""))
+  (lib (name oled_i2c_display)(type Legacy)(uri ${KIPRJMOD}/lib/oled_i2c_display.lib)(options "")(descr ""))
+  (lib (name STEVAL-STLCS01V1)(type Legacy)(uri ${KIPRJMOD}/lib/STEVAL-STLCS01V1.lib)(options "")(descr ""))
+  (lib (name dogm128x6)(type Legacy)(uri ${KIPRJMOD}/lib/dogm128x6.lib)(options "")(descr ""))
+  (lib (name ESP8266_small_module)(type Legacy)(uri /home/greg/pCloudDrive/Projects/EnvMonitor/env_monitor/lib/ESP8266_small_module.lib)(options "")(descr ""))
+)
